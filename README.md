@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 💬 Open to questions and thoughts about **web development**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vscode,grid)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vscode,)](https://skillicons.dev)
